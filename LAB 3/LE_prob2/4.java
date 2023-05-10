@@ -1,0 +1,3 @@
+class Implement extends Abstr{
+    
+}
